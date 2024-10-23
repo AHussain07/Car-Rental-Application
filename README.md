@@ -29,7 +29,7 @@ To run this project, you need the following installed on your system:
 1. **Clone the Repository**:
    If the project is hosted on a version control system like GitHub, clone it using:
    ```bash
-   git clone https://github.com/your-repo/car-rental-system.git
+   git clone https://github.com/AHussain07/Car-Rental-Application.git
    ```
    If you have the files locally, ensure all the files are placed in the same directory.
    
