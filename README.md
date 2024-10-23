@@ -30,13 +30,14 @@ To run this project, you need the following installed on your system:
    If the project is hosted on a version control system like GitHub, clone it using:
    ```bash
    git clone https://github.com/your-repo/car-rental-system.git
- If you have the files locally, ensure all the files are placed in the same directory.
-  
-2. **Install Required Dependencies**:
+   ```
+   If you have the files locally, ensure all the files are placed in the same directory.
+   
+3. **Install Required Dependencies**:
    You need to install any dependencies like Pillow (if used). You can install it using pip:
    ```bash
    pip install Pillow
-3. ***Run the Application***:
+4. ***Run the Application***:
    After ensuring all dependencies are installed, navigate to the project directory and run the application:
    ```bash
    python index.py
